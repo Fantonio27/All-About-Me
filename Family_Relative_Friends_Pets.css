@@ -1,0 +1,143 @@
+<style type="text/css">
+		.header{
+			background-image: url("pictures/bg4.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-position: center;
+		}
+
+		.nav{
+			background-color: white;
+			border-top:3px solid #DF4C73;
+			transition: top 0.3s;
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		}
+
+		.p1{
+			font-size: max(4vw, 33px);
+			font-family: Arial;
+			color: white;
+			border: 10px double whitesmoke;
+			opacity: 85%;
+			margin-top: 220px;
+			width: 50%;
+			height: 250px;
+			padding-top: 60px;
+		}
+		.heightxs{height: 70px;}
+		.heightxs1{height: 200px;}
+		.heightsm{height: 80px;}
+		.heightxlg{height:650px;}
+		.heightlg{height:700px;
+		background-color: #E2F0F9;}
+
+		.pic, .pic2
+		,.pic1{
+			height: auto;
+			width: 580px;
+			max-width: 100%;
+			object-fit: contain;
+			float: right;
+			box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.10);
+		}
+
+		.pic1, .pic2{
+			float: left;
+			width: 520px;
+			max-width: 100%;
+			margin-bottom: 30px;
+		}
+
+		.pic2{
+			float: left;
+
+		}
+
+		.box1{
+			background-color: ;
+			height: 300px;
+			max-width: 540px;
+			padding-top: 45px;
+		}
+
+		.p2{
+			font-size: 40px;
+			font-family: Verdana;
+			color: #DF4C73;
+			float: center;
+		}
+
+		.p3{
+			font-size: 18px;
+			font-family: Verdana;
+			text-align: justify;
+			color: #2C3333;
+		}
+
+		.p4{
+			font-size: 24px;
+			font-family: Arial;
+			text-align: justify;
+			background-color: ;
+			height: 500px;
+			float: right;
+			max-width: 540px;
+			text-align: center;
+		}
+
+		.box2, .box3{		
+			text-align: justify;
+			background-color: ;
+			height: 500px;
+			max-width: 500px;
+			text-align: left;
+			float: right;
+		}
+
+		.box3{
+			float: left;
+		}
+
+		.p6{
+			font-family: Arial;
+			font-size: 26px;
+			margin:  0px 0px 0px 0px;
+			color: #DF4C73;
+		}
+
+		.p7{
+			font-family: Arial;
+			font-size: 18px;
+			margin:  10px 0px 0px 00px;
+			color: #2C3333;
+			text-align: justify;
+
+		}
+
+		.trans{
+			background-color: black;
+			opacity: 0.2;
+			position: absolute;
+			width:100.55%;
+			left: -10px;
+		}
+
+		.p20{
+			font-size: 18px;
+			font-family: Arial;
+			margin: 10px 0px 10px 20px;
+		}
+
+		.p20:hover{
+			color: #DF4C73;
+		}
+
+		.p21{
+			font-size: 22px;
+			font-family: Arial;
+			margin: 15px 0px 10px 20px;
+			color: #DF4C73;
+			padding-right: 20px;
+			opacity: 100%;
+		}
+	</style>
